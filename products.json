@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Принтер HP LaserJet",
+    "price": "15000 ₽",
+    "image": "printer-hp.jpg"
+  },
+  {
+    "name": "Картридж Canon",
+    "price": "3200 ₽",
+    "image": "cartridge-canon.jpg"
+  }
+]
